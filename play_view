@@ -1,0 +1,502 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta name="keywords" content="大和田SC,おおわだ,本八幡">
+    <meta name="description" content="千葉県市川市大和田小学校を拠点とする、大和田SCの情報をいち早くお届けします。" />
+    <meta property="og:title" content="大和田SC　Private Site" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="/" />
+    <meta property="og:image" content="" />
+    <meta property="og:site_name" content="大和田SC Private site" />
+    <meta property="og:description" content="" />
+    <link rel="start" href="/" title="Home" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="/atom.xml" />
+    <script type="text/javascript" src="/mt.js"></script>
+    <link rel="canonical" href="/" />
+    <meta name="google-site-verification" content="RNzWev8RbiPWEHkVO291I5EikUBKQQceayWjVGwBp24" />
+    <title>大和田小学校｜大和田SC(サッカークラブ) Private Site</title>
+    
+<link rel="shortcut icon" href="/rnd_2016/images/common/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="/rnd_2016/images/common/apple-touch-icon-precomposed.png">
+<link href="/rnd_2016/css/default.css" rel="stylesheet" media="all">
+<link href="/rnd_2016/css/common.css" rel="stylesheet" media="all">
+<link href="/rnd_2016/css/new_style.css" rel="stylesheet" media="all">
+<link href="/rwt_style.css" rel="stylesheet" media="all">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700|Open+Sans:400,400i,700,700i" rel="stylesheet"> 
+
+<link href="/rnd_2016/css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+<script src="/rnd_2016/js/loadCSS.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/rnd_2016/js/jquery.scrollUp.min.js"></script>
+<script>
+$(function () {
+    $.scrollUp();
+});
+</script>
+
+<script src="/rnd_2016/js/jquery.mousewheel.min.js"></script>
+<script src="/rnd_2016/js/jquery.mCustomScrollbar.js"></script>
+<script src="/rnd_2016/js/jTabs.min.js"></script>
+<script src="/rnd_2016/js/rollover.js"></script>
+<!--[if lte IE 9]>
+<script src="/rnd_2016/js/html5shiv.js"></script>
+<![endif]-->
+
+<script src="/rnd_2016/js/jquery.bxslider.min.js"></script><!-- Slider 全ページで必要 -->
+<script src="/rnd_2016/js/jquery.totemticker.min.js"></script><!-- Ticker 全ページで必要 -->
+<script src="/rnd_2016/js/common.js"></script><!-- 全ページで必要 -->
+
+<!-- camera_slider -->
+<link type="text/css" href="/rnd_2016/css/camera.css" rel="stylesheet" media="all" />
+
+<script src='/rnd_2016/js/jquery.easing.1.3.js'></script>
+<script src='/rnd_2016/js/jquery.mobile.customized.min.js'></script>
+<script src="/rnd_2016/js/camera.js"></script>
+<script src="/rnd_2016/js/yuga.js"></script>
+
+<!-- SP SIDE SLIDE MENU -->
+<link rel="stylesheet" href="/rnd_2016/css/slidebars.min.css">
+
+<!-- Swiper CSS -->
+<link rel="stylesheet" href="/rnd_2016/css/jquery.bxslider.css">
+
+<!-- other -->
+<script>
+$(function () {
+     if ( $.browser.msie && $.browser.version <= 8 ) {
+             $('body').prepend('<div class="ie6_error">現在、旧式ブラウザをご利用中です。このウェブサイトは、現在ご利用中のブラウザには対応しておりません。バージョンを確認し、アップグレードを行ってください。</div>');
+     }
+});
+</script>
+
+<link rel="stylesheet" href="/rnd_2016/css/print.css" type="text/css" media="print" />
+
+</head>
+
+
+<body class=" layout-wtt">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<noscript>
+<div class="no_script">サイトを快適に利用するためには、JavaScriptを有効にしてください。</div>
+</noscript>
+
+<!-- SP header -->
+<div id="header" class="sb-slide sp">
+<h1 align="center"><img src="/rnd_2016/images/common/logo_sp.png" alt="柏レイソルオフィシャルウェブサイト" /></h1>
+
+    <p class="sb-toggle-right">
+    <img src="/rnd_2016/images/common/menu_sp.png" />
+    </p> 
+</div><!-- SP header end -->
+
+
+<!-- PC Start -->
+<div id="sb-site">
+<!-- header -->
+<header class="pc">
+<div class="content">
+<h1 class="Mlogo"><a href="/"><img src="/rnd_2016/images/common/logo.gif" class="non_p"></a></h1>
+<div class="nav_area">
+  <div class="sns_btn">
+  <ul>
+  <li class="title_txt"><img src="/rnd_2016/images/common/title.png"></li>
+  <li><a href="https://ja-jp.facebook.com/ReysolOfficial" target="_blank"><img src="/rnd_2016/images/common/sns/fb.png" width="47" height="48" alt="レイソルFB"/></a></li>
+  <li><a href="https://twitter.com/Reykun_kashiwaR" target="_blank"><img src="/rnd_2016/images/common/sns/tw.png" width="47" height="48" alt="レイソルtwitter"/></a></li>
+  <li><a href="https://www.youtube.com/user/KashiwaReysolChannel" target="_blank"><img src="/rnd_2016/images/common/sns/yt.png" width="47" height="48" alt="レイソルYoutube"/></a></li>
+  <li><a href="https://line.me/ti/p/%40blf5167q" target="_blank"><img src="/rnd_2016/images/common/sns/line.png" width="47" height="48" alt="レイソルLINE"/></a></li>
+  <li><a href="https://www.instagram.com/kashiwareysol_official/" target="_blank"><img src="/rnd_2016/images/common/sns/insta.png" width="47" height="48" alt="柏レイソル公式Instagram"/></a></li>
+  <li><a href="/english/index.html" target="_blank"><img src="/rnd_2016/images/common/sns/english.png" width="47" height="48" alt="English Site"/></a></li>
+  </ul>
+  </div>
+                    <ul class="menu">
+					<li class="news menu__mega">
+						<a href="/news/">ニュース</a>
+						<ul class="sub_list">
+							<li class="top_contents"><a href="/news/">すべて</a></li>
+							<li class="ch3"><a href="/news/topteam/">トップチーム</a></li>
+							<li><a href="/news/event/">試合＆イベント</a></li>
+							<li class="clear"><a href="/news/youth/">アカデミー</a></li>
+							<li class="ch3"><a href="/news/ticket/">チケット</a></li>
+							<li><a href="/news/sponsor/">スポンサー</a></li>
+							<li class="clear"><a href="/news/fanclub/">ファンクラブ</a></li>
+							<li class="ch3"><a href="/news/home/">ホームタウン</a></li>
+							<li><a href="/news/goods/">グッズ</a></li>
+							<li class="clear"><a href="/news/school/">スクール</a></li>
+							<li class="ch3"><a href="/news/other/">その他</a></li>
+							<li><a href="/media.php">メディア情報</a></li>
+						</ul>
+					</li>
+					<li class="result menu__mega">
+						<a href="/game/">試合日程・結果</a>
+						<ul class="sub_list">
+							<li class="top_contents"><a href="/game/">トップ</a></li>
+							<li class="ch3"><a href="/game/live/">試合速報</a></li>
+                            <li><a href="https://twitter.com/reysol_sokuho/" target="_blank">twitter</a></li>
+							<li class="clear"><a href="/game/results/">日程・結果</a></li>
+							<li class="ch3"><a href="/game/results/year/">年度別・結果</a></li>
+						</ul>
+					</li>
+					<li class="ticket menu__mega">
+						<a href="/ticket/">チケット・観戦</a>
+						<ul class="sub_list">
+							<li class="top_contents"><a href="/ticket/">トップ</a></li>
+							<li class="ch3"><a href="/ticket/next/">ゲームインフォ</a></li>
+							<li><a href="/ticket/ticket-guide/">チケット</a></li>
+							<li class="clear"><a href="/ticket/stadium/index.php">スタジアムアクセス</a></li>
+							<li class="ch3"><a href="/ticket/rules/">観戦マナー</a></li>
+							<li><a href="/ticket/handy.php">車椅子席</a></li>
+						</ul>
+					</li>
+					<li class="players menu__mega">
+						<a href="/team/">トップチーム</a>
+						<ul class="sub_list">
+							<li class="top_contents"><a href="/team/">トップ</a></li>
+							<li class="ch3"><a href="/team/players/">選手</a></li>
+							<li><a href="/team/staff/">スタッフ</a></li>
+							<li class="clear"><a href="/team/fanservice/">練習見学</a></li>
+							<li class="ch3"><a href="/team/schedule/">スケジュール</a></li>
+						</ul>
+					</li>
+					<li class="academy menu__mega">
+						<a href="/academy/">アカデミー</a>
+						<ul class="sub_list">
+							<li class="top_contents"><a href="/academy/">トップ</a></li>
+							<li class="ch3"><a href="/academy/about.php">アカデミー概要</a></li>
+                            <li><a href="/academy/staff/">スタッフ</a></li>
+							<li class="clear"><a href="/academy/results/">試合結果</a></li>
+							<li class="ch3"><a href="/academy/schedule.php">スケジュール</a></li>
+							<li><a href="/academy/profile.php">プロフィール</a></li>
+							<li class="clear"><a href="/academy/selection.php">セレクション</a></li>
+							<li class="ch3"><a href="/academy/school.php">スクール</a></li>
+						</ul>
+					</li>
+					<li class="fan menu__mega">
+						<a href="/fan/">ファンゾーン</a>
+						<ul class="sub_list">
+							<li class="top_contents"><a href="/fan/">トップ</a></li>
+							<li class="ch3"><a href="/fan/blog/">ブログ</a></li>
+							<li><a href="/fan/supporters/">ファンクラブ</a></li>
+							<li class="clear"><a href="/fan/contents/">ファンコンテンツ</a></li>
+							<li class="ch3"><a href="/fan/sns/">SNS</a></li>
+							<li><a href="/fan/mailmagazine/">メールマガジン</a></li>
+						</ul>
+					</li>
+					<li class="club menu__mega">
+						<a href="/club/">クラブ</a>
+						<ul class="sub_list">
+							<li class="top_contents"><a href="/club/">トップ</a></li>
+							<li class="ch3"><a href="/club/clubinfo/">クラブ概要</a></li>
+							<li><a href="/club/environment/">クラブの取り組み</a></li>
+							<li class="clear"><a href="/club/town/">ホームタウン</a></li>
+							<li class="ch3"><a href="/club/history/">ヒストリー</a></li>
+							<li><a href="/club/sponsor/">スポンサー</a></li>
+							<li class="clear"><a href="/club/partner/">柏レイソルパートナー</a></li>
+						</ul>
+					</li>
+					<li class="goods menu__mega">
+						<a href="/goods/">グッズ</a>
+						<ul class="sub_list">
+							<li class="top_contents"><a href="/goods/">トップ</a></li>
+							<li class="ch3"><a href="/goods/shop.php">ショップ案内</a></li>
+							<li><a href="https://www.reysol-online.jp/" target="_blank">オンラインショップ</a></li>
+						</ul>
+					</li>
+				</ul>
+
+                </div><!-- global_nav -->
+</div>
+</header><!-- header_end -->
+
+
+<div id="hot_topics">
+  <div class="default_frame">
+   
+  <ul id="page_head_ticker">
+
+<li><a href="/fan/contents/download/">7月壁紙カレンダー更新（三丸＆鵜木選手）</a></li>
+
+<li><a href="/fan/supporters/shop.php">【real DG 追加】アソシエイツ提携店舗で会員特典を利用しよう</a></li>
+
+<li><a href="https://www.reysol.co.jp/news/topteam/033010.html">練習非公開とファンサービス休止のお知らせ</a></li>
+
+<li><a href="https://www.reysol.co.jp/news/other/001185.html">無料Wi-Fiサービス『REYSOL FREE Wi-Fi』増設しました</a></li>
+
+<li><a href="https://www.youtube.com/user/KashiwaReysolChannel">【公式youtube】DAZNマッチハイライトなど公開中</a></li>
+
+<li><a href="/academy/school.php#part4">柏レイソルスクール生専用ウェア購入のお知らせ</a></li>
+
+
+
+</ul>
+ </div>
+</div><!-- hot_topics -->
+
+
+
+
+
+<div class="content">
+<p class="bread"> 
+<a href="https://www.reysol.co.jp/">TOP</a> &gt; 
+  
+<span class="current">アカデミートップ</span> 
+ 
+</p>
+</div>
+
+<div class="content">
+
+  <h2 class="page_ttl">アカデミー</h2>
+  <h3 class="sub_ttl">アカデミートップ</h3>
+
+  <div class="bg_W">
+  <!-- これより下 -->
+  <div class="index_box_1">
+  <h4 class="arrow_border_title"><span>アカデミー概要</span></h4>
+  <a href="/academy/about.php"><img src="/rnd_2016/images/academy/index_img/01.jpg"></a>
+  
+		<p class="inner_txt">指導理念、出身選手、アライアンスクラブなどのご紹介です</p>
+                        <p class="to_upage"><a href="/academy/about.php">詳細はこちら</a></p>
+  </div>
+  
+  <div class="index_box_1">
+  <h4 class="arrow_border_title"><span>試合結果</span></h4>
+  <a href="/academy/results/"><img src="/rnd_2016/images/academy/index_img/02.jpg"></a>
+  
+						<p class="inner_txt">各年代の試合日程と試合結果が見られます</p>
+                        <p class="to_upage"><a href="/academy/results/">詳細はこちら</a></p>
+  </div>
+  
+  <div class="index_box_1">
+  <h4 class="arrow_border_title"><span>スケジュール</span></h4>
+  <a href="/academy/schedule.php"><img src="/rnd_2016/images/academy/index_img/03.jpg"></a>
+  
+						<p class="inner_txt">週間スケジュールや練習･試合見学のご案内です</p>
+                        <p class="to_upage"><a href="/academy/schedule.php">詳細はこちら</a></p>
+  </div>
+  
+  <div class="index_box_1">
+  <h4 class="arrow_border_title"><span>スタッフ/プロフィール</span></h4>
+  <a href="/academy/profile.php"><img src="/rnd_2016/images/academy/index_img/04.jpg"></a>
+  
+						<p class="inner_txt">選手やコーチングスタッフのプロフィールをご紹介します</p>
+                        <p class="to_upage"><a href="/academy/profile.php">詳細はこちら</a></p>
+  </div>
+  
+  <div class="index_box_1">
+  <h4 class="arrow_border_title"><span>セレクション</span></h4>
+  <a href="/academy/selection.php"><img src="/rnd_2016/images/academy/index_img/05.jpg"></a>
+  
+						<p class="inner_txt">レイソルアカデミーの選手セレクションの情報です</p>
+                        <p class="to_upage"><a href="/academy/selection.php">詳細はこちら</a></p>
+  </div>
+  
+  <div class="index_box_1">
+  <h4 class="arrow_border_title"><span>スクール</span></h4>
+  <a href="/academy/school.php"><img src="/rnd_2016/images/academy/index_img/06.jpg"></a>
+  
+						<p class="inner_txt">小学生対象のスクール、臨時スクールのご案内</p>
+                        <p class="to_upage"><a href="/academy/school.php">詳細はこちら</a></p>
+  </div>
+  
+  <div class="clear"></div>
+  
+  <!-- これより上 -->                    
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<div class="bg04">
+<div class="content">
+<p align="center" class="pc"><a href="/sitemap.php">サイトマップ</a> ｜ <a href="/sr.php">推薦環境について</a> ｜ <a href="/pp.php">個人情報保護に関して</a> ｜ <a href="/qa.php">よくあるご質問</a> ｜ <a href="/contact-n.php">お問い合わせ・ご意見</a> ｜ <a href="/link.php">リンク</a> ｜ <a href="/english/index.html">English</a></p>
+<p align="center" class="sp"><a href="/sitemap.php">サイトマップ</a> ｜ <a href="/sr.php">推薦環境について</a> ｜ <a href="/pp.php">個人情報保護に関して</a><br><a href="/qa.php">よくあるご質問</a> ｜ <a href="/contact-n.php">お問い合わせ・ご意見</a> ｜ <a href="/link.php">リンク</a> ｜ <a href="/english/index.html">English</a></p>
+</div>
+</div>
+
+<div class="bg05">
+<div class="content">
+<p align="center">All Rights Reserved, Copyright (C) KASHIWA REYSOL</p>
+</div>
+</div><!-- FOOTER end -->
+
+
+</div><!-- sb-site end -->
+
+
+
+<div class="sb-slidebar sb-right sp">
+<ul id="sp_menu">
+<li><a href="/" class="txt_dc_non"><div class="main_menu_t">TOP</div></a></li>
+					<li class="news">
+						<div class="main_menu">ニュース</div>
+						<ul class="sub_menu">
+							<li><a href="/news/">すべて</a></li>
+							<li><a href="/news/topteam/">トップチーム</a></li>
+							<li><a href="/news/event/">試合＆イベント</a></li>
+							<li><a href="/news/youth/">アカデミー</a></li>
+							<li><a href="/news/ticket/">チケット</a></li>
+							<li><a href="/news/sponsor/">スポンサー</a></li>
+							<li><a href="/news/fanclub/">ファンクラブ</a></li>
+							<li><a href="/news/home/">ホームタウン</a></li>
+							<li><a href="/news/goods/">グッズ</a></li>
+							<li><a href="/news/school/">スクール</a></li>
+							<li><a href="/news/other/">その他</a></li>
+							<li><a href="/media.php">メディア情報</a></li>
+						</ul>
+					</li>
+					<li class="result">
+						<div class="main_menu">試合日程・結果</div>
+						<ul class="sub_menu">
+							<li><a href="/game/">トップ</a></li>
+							<li><a href="/game/live/">試合速報</a></li>
+                            <li><a href="https://twitter.com/reysol_sokuho/" target="_blank">twitter</a></li>
+							<li><a href="/game/results/">日程・結果</a></li>
+							<li><a href="/game/results/year/">年度別・結果</a></li>
+						</ul>
+					</li>
+					<li class="ticket">
+						<div class="main_menu">チケット・観戦</div>
+						<ul class="sub_menu">
+							<li><a href="/ticket/">トップ</a></li>
+							<li><a href="/ticket/next/">ゲームインフォ</a></li>
+							<li><a href="/ticket/ticket-guide/">チケット</a></li>
+							<li><a href="/ticket/stadium/">スタジアムアクセス</a></li>
+							<li><a href="/ticket/rules/">観戦マナー</a></li>
+							<li><a href="/ticket/handy.php">車椅子席</a></li>
+						</ul>
+					</li>
+					<li class="players">
+						<div class="main_menu">トップチーム</div>
+						<ul class="sub_menu">
+							<li><a href="/team/">トップ</a></li>
+							<li><a href="/team/players/">選手</a></li>
+							<li><a href="/team/staff/">スタッフ</a></li>
+							<li><a href="/team/fanservice/">練習見学</a></li>
+							<li><a href="/team/schedule/">スケジュール</a></li>
+						</ul>
+					</li>
+					<li class="academy">
+						<div class="main_menu">アカデミー</div>
+						<ul class="sub_menu">
+							<li><a href="/academy/">トップ</a></li>
+							<li><a href="/academy/about.php">アカデミー概要</a></li>
+                            <li><a href="/academy/staff/">スタッフ</a></li>
+							<li><a href="/academy/results/">試合結果</a></li>
+							<li><a href="/academy/schedule.php">スケジュール</a></li>
+							<li><a href="/academy/profile.php">プロフィール</a></li>
+							<li><a href="/academy/selection.php">セレクション</a></li>
+							<li><a href="/academy/school.php">スクール</a></li>
+						</ul>
+					</li>
+					<li class="fan">
+						<div class="main_menu">ファンゾーン</div>
+						<ul class="sub_menu">
+							<li><a href="/fan/">トップ</a></li>
+							<li><a href="/fan/blog/">ブログ</a></li>
+							<li><a href="/fan/supporters/">ファンクラブ</a></li>
+							<li><a href="/fan/contents/">ファンコンテンツ</a></li>
+							<li><a href="/fan/sns/">SNS</a></li>
+							<li><a href="/fan/mailmagazine/">メールマガジン</a></li>
+						</ul>
+					</li>
+					<li class="club">
+						<div class="main_menu">クラブ</div>
+						<ul class="sub_menu">
+							<li><a href="/club/">トップ</a></li>
+							<li><a href="/club/clubinfo/">クラブ概要</a></li>
+							<li><a href="/club/environment/">クラブの取り組み</a></li>
+							<li><a href="/club/town/">ホームタウン</a></li>
+							<li><a href="/club/history/">ヒストリー</a></li>
+							<li><a href="/club/sponsor/">スポンサー</a></li>
+							<li><a href="/club/partner/">柏レイソルパートナー</a></li>
+						</ul>
+					</li>
+					<li class="goods">
+						<div class="main_menu">グッズ</div>
+						<ul class="sub_menu">
+							<li><a href="/goods/">トップ</a></li>
+							<li><a href="/goods/shop.php">ショップ案内</a></li>
+							<li><a href="https://www.reysol-online.jp/" target="_blank">オンラインショップ</a></li>
+						</ul>
+					</li>
+				</ul><!-- sp_nav -->
+</div>
+
+
+<script src="/rnd_2016/js/slidebars.min.js"></script>
+<script>
+  (function($) {
+    $(document).ready(function() {
+      $.slidebars();
+    });
+  }) (jQuery);
+</script>
+
+
+<script type="text/javascript">
+$(function(){
+        $('.sub_menu').hide();        
+        $('.main_menu').click(function(){
+                $('ul.sub_menu').slideUp();
+                if($('+ul.sub_menu',this).css('display') == 'none'){
+                        $('+ul.sub_menu',this).slideDown();
+                }
+        });
+});
+</script>
+
+
+<!-- CAMP Onetag -->
+<script type="text/javascript" src="https://ot.ca-mpr.jp/s/pc/36/?i4ot=44" charset="UTF-8"></script>
+<!-- CAMP Onetag -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-76013401-1']);
+  _gaq.push(['_setDomainName', 'reysol.co.jp']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+$(function(){
+	$('div.sponsor_bn_list a').each(function(){
+		$(this).on('click',function(e){
+			_gaq.push(['_trackEvent','Banners','Goto',$(this).attr('href')]);
+		});
+	});
+});
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76013401-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
