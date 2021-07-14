@@ -91,7 +91,7 @@ $(function () {
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <noscript>
-<div class="no_script">サイトを快適に利用するためには、JavaScriptを有効にしてください。</div>
+<div class="no_script">・サイトを快適に利用するためには、JavaScriptを有効にしてください。</div>
 </noscript>
 
 <!-- SP header -->
